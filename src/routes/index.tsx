@@ -184,9 +184,9 @@ function Index() {
             <div className="card-title">Pilates, Yoga e Aulas de Grupo</div>
             <div className="card-underline"></div>
             <div className="card-description">Controlo. Equilíbrio. Bem-estar.</div>
-            <span className="card-link">
+            <a href="https://mindfulstudio.gruposal.pt" className="card-link">
               Entrar <span className="arrow">→</span>
-            </span>
+            </a>
           </div>
         </div>
 
