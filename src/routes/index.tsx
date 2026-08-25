@@ -174,9 +174,9 @@ function Index() {
             <div className="card-title">Personal Training</div>
             <div className="card-underline"></div>
             <div className="card-description">Foco. Força. Resultados.</div>
-            <span className="card-link">
+            <a href="https://personaltraining.gruposal.pt" className="card-link">
               Entrar <span className="arrow">→</span>
-            </span>
+            </a>
           </div>
 
           <div className="card pilates">
