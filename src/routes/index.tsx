@@ -29,7 +29,7 @@ const css = `
   box-sizing: border-box;
 }
 .gs-page {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Anton', sans-serif;
   background-color: #0a0a0a;
   color: #ffffff;
   min-height: 100vh;
