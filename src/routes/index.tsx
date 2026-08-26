@@ -165,7 +165,7 @@ function Index() {
           <h1 className="logo">GRUPO SAL</h1>
           <div className="divider"></div>
           <div className="subtitle">UM ESPAÇO. DUAS FORMAS DE MOVIMENTO.</div>
-          <div className="description">Escolhe a experiência que melhor se adapta a ti.</div>
+          <div className="description">Escolhe como queres treinar.</div>
         </div>
 
         <div className="cards-container">
