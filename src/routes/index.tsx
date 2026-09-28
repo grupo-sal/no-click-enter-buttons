@@ -192,7 +192,7 @@ function Index() {
 
         <div className="footer">
           <div className="footer-title">GRUPO SAL</div>
-          <div className="footer-subtitle">Personal Training + Pilates + Aulas de Grupos</div>
+          <div className="footer-subtitle">PERSONAL TRAINING + PILATES + AULAS DE GRUPO</div>
         </div>
       </div>
     </div>
